@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66" started-at="2021-09-16T12:48:25 IST" finished-at="2021-09-16T12:48:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="66" started-at="2021-09-16T12:48:25 IST" finished-at="2021-09-16T12:48:25 IST">
+      <class name="MavenJava.BankTest">
+        <test-method status="PASS" signature="bankLogin()[pri:0, instance:MavenJava.BankTest@dc24521]" name="bankLogin" duration-ms="0" started-at="2021-09-16T12:48:25 IST" finished-at="2021-09-16T12:48:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankLogin -->
+        <test-method status="PASS" signature="bankLogout()[pri:0, instance:MavenJava.BankTest@dc24521]" name="bankLogout" duration-ms="0" started-at="2021-09-16T12:48:25 IST" finished-at="2021-09-16T12:48:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankLogout -->
+      </class> <!-- MavenJava.BankTest -->
+      <class name="MavenJava.HospitalTest">
+        <test-method status="PASS" signature="hospLogin()[pri:0, instance:MavenJava.HospitalTest@73846619]" name="hospLogin" duration-ms="8" started-at="2021-09-16T12:48:25 IST" finished-at="2021-09-16T12:48:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hospLogin -->
+        <test-method status="PASS" signature="hospLogout()[pri:0, instance:MavenJava.HospitalTest@73846619]" name="hospLogout" duration-ms="1" started-at="2021-09-16T12:48:25 IST" finished-at="2021-09-16T12:48:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hospLogout -->
+      </class> <!-- MavenJava.HospitalTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
